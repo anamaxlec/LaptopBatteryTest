@@ -1,0 +1,2 @@
+# LaptopBatteryTest
+基于Python和UL Procyon的笔记本续航自动化测试脚本
