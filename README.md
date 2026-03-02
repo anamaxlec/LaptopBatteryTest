@@ -35,7 +35,7 @@ python -m playwright install chromium
 
 ## 3. 快速开始
 
-* **放置脚本**：将打包好的 `test_script.exe`（或源码）以及你的 `office_productivity.def` 配置文件放置在 UL Procyon 的安装根目录下（通常为 `C:\Program Files\UL\Procyon\`）。
+* **放置脚本**：将打包好的 `test_script.exe` 放置在 UL Procyon 的安装根目录下（通常为 `C:\Program Files\UL\Procyon\`）。
 * **准备配置**：确保目录下存在 `office_productivity.def`，这是执行 Office 测试的必要定义文件。
 * **运行测试**：
 1. 右键点击 `test_script.exe`，选择**以管理员身份运行**。
