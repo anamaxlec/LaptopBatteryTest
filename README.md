@@ -15,7 +15,7 @@
 * **操作系统**：Windows 10/11
 * **必要软件**：
     * Microsoft Office (Word, Excel, PowerPoint)
-    * [UL Procyon](https://benchmarks.ul.com/procyon) (必须安装并激活)
+    * [UL Procyon](https://benchmarks.ul.com/procyon) (必须安装并激活，且脚本需要放置在UL Procyon根目录)
     * 微信/QQ (如需测试通讯模块，需提前登录并保持窗口开启)
 
 ### Python环境
